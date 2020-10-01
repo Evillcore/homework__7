@@ -110,7 +110,7 @@ body {
 
 .header {
 	padding: 20px 0px 0px 0px;
-	background: url(../img/block/bg.jpg)  no-repeat;
+	background: url(../img/block/bg.jpg) center / cover no-repeat;
 }
 
 .header__logo {
@@ -319,11 +319,11 @@ body {
 .header__img {
 	display: inline-block;
 	vertical-align: top;
-	margin: 16px 0px 0px 470px;
+	margin: 16px 0px -5px 470px;
 }
 
 .header__img img {
- 
+	
 }
 
 .header__h {
